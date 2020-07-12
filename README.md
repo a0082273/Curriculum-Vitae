@@ -4,7 +4,7 @@
 |key|value|
 |---|-----|
 |Name|春日井　健太 (Kenta Kasugai)|
-|Twitter|[@a0082273](https://twitter.com/a0082273)|
+|Twitter|[a0082273](https://twitter.com/a0082273)|
 |Qiita|[a0082273](https://qiita.com/a0082273)|
 |Kaggle|[a0082273](https://www.kaggle.com/a0082273)|
 |SIGNATE|[a0082273](https://signate.jp/users/21158/history)|
@@ -61,3 +61,6 @@
 ## 学生時代の論文
 - [春日井健太, 西藤潤, & 小林俊一. (2014). 節点ベース要素を用いた混合型剛塑性有限要素解析へのアダプティブ法の適用. 計算数理工学論文集, 14, 61-66.](https://ci.nii.ac.jp/naid/40020290760/)
 - [西藤潤, 春日井健太, & 小林俊一. (2015). 混合型剛塑性有限要素法における辺ベース要素の適用とその有効性. 土木学会論文集 A2 (応用力学), 71(2), I_339-I_348.](https://www.jstage.jst.go.jp/article/jscejam/71/2/71_I_339/_article/-char/ja/)
+
+## スキルシート
+https://docs.google.com/spreadsheets/d/14IPAtLljIi9xx9jm6klaj6cfxGwJOLyGlgWuQ8XY6ts
