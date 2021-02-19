@@ -6,9 +6,6 @@
 |Name|春日井　健太 (Kenta Kasugai)|
 |Twitter|[a0082273](https://twitter.com/a0082273)|
 |Qiita|[a0082273](https://qiita.com/a0082273)|
-|Kaggle|[a0082273](https://www.kaggle.com/a0082273)|
-|SIGNATE|[a0082273](https://signate.jp/users/21158/history)|
-|ProbSpace|[a0082273](https://prob.space/users/a0082273/0)|
 |読書メーター|[a0082273](https://bookmeter.com/users/367929/bookcases/11261932?sort=book_count&order=desc)|
 
 ## スキル
